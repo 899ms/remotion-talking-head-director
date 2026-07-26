@@ -25,7 +25,8 @@
   <a href="#-目录结构">目录结构</a> ·
   <a href="#-安装与兼容性">安装</a> ·
   <a href="#-快速上手">快速上手</a> ·
-  <a href="#️-使用边界与安全原则">使用边界</a>
+  <a href="#️-使用边界与安全原则">使用边界</a> ·
+  <a href="CONTRIBUTING.md">贡献</a>
 </p>
 
 ---
@@ -153,6 +154,14 @@ cp -R remotion-talking-head-director ~/.claude/skills/remotion-talking-head-dire
 - `remotion-render`
 
 若实现细节与本 Skill 冲突，以当前 Remotion 官方规范为准；但代理优先、字幕事实源保护、视觉确认和最终导出授权仍应遵守。
+
+## 🤝 贡献
+
+欢迎提交流程改进、Remotion 实践、模板与翻译。提交前请阅读 [贡献指南](CONTRIBUTING.md)，并避免加入未经授权的媒体、字体或第三方资产。
+
+## 📄 许可证
+
+本项目以 [MIT License](LICENSE) 发布。
 
 ---
 

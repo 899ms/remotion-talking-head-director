@@ -22,7 +22,8 @@
   <a href="#-project-structure">Structure</a> ·
   <a href="#-installation-and-compatibility">Installation</a> ·
   <a href="#-quick-start">Quick start</a> ·
-  <a href="#️-operating-boundaries-and-safety-principles">Safety</a>
+  <a href="#️-operating-boundaries-and-safety-principles">Safety</a> ·
+  <a href="CONTRIBUTING.md">Contributing</a>
 </p>
 
 ---
@@ -151,6 +152,14 @@ This Skill owns the production process, gates, and acceptance criteria. For curr
 - `remotion-render`
 
 If implementation specifics conflict with this Skill, follow the current official Remotion guidance. The proxy-first workflow, caption-source protection, visual approval, and final-export authorization remain mandatory.
+
+## 🤝 Contributing
+
+Contributions to workflow rules, Remotion practices, templates, and translations are welcome. Read the [contribution guide](CONTRIBUTING.md) before opening a change, and do not add unlicensed media, fonts, or third-party assets.
+
+## 📄 License
+
+This project is released under the [MIT License](LICENSE).
 
 ---
 
