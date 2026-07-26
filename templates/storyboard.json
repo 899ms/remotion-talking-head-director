@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "fps": 30,
+  "scenes": [
+    {
+      "id": "scene-001",
+      "startMs": 0,
+      "endMs": 0,
+      "startFrame": 0,
+      "endFrame": 0,
+      "spokenText": "",
+      "semanticGoal": "hook",
+      "speakerLayout": "fullscreen",
+      "caption": {
+        "text": "",
+        "emphasis": []
+      },
+      "visuals": [],
+      "enter": "",
+      "exit": "",
+      "layers": ["background", "speaker", "graphics", "captions"],
+      "assets": [],
+      "notes": ""
+    }
+  ]
+}
